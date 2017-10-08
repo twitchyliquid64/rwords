@@ -1,8 +1,5 @@
 # rwords
 
-## WORK IN PROGRESS
+Randomly generates words.
 
-## TODO
-
- * Start ingesting a weightMap and generating words from it
- * Mode to only generate words with strict vowel-constonant ordering
+RandomSimple generates pronouncable words. RandomMarkov attempts to generate words using the character probabilities given to it - words may or may not be pronouncable.
